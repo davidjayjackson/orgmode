@@ -1,0 +1,10 @@
+
+#+TITLE:That's easy for you to say!
+#+Author: Me  myself and I
+#+Date: 2023-11-15
+* Pangrams
+A sentence that contains everyff letter of the alphabet.
+     ** The quick brown fox jumped the lazy dog.
+
+
+
